@@ -312,6 +312,9 @@ footer {
     width: 5rem;
     height: auto;
     margin-top: 0.5rem;
+    background-color: var(--purple);
+    border-radius: 10%;
+    padding: 15px;
 }
 
 #services .column-3 h3 {
@@ -379,14 +382,17 @@ footer {
     text-align: center;
 }
 
-#cta >div {
-  margin-bottom: var(--gap);
+#cta>div {
+    margin-bottom: var(--gap);
 }
 
 #cta img {
     width: 5rem;
     height: auto;
     margin-top: 0.5rem;
+    background-color: var(--purple);
+    border-radius: 10%;
+    padding: 15px;
 }
 
 #cta h3 {
